@@ -4,7 +4,7 @@
 [![Instagram](https://www.instagram.com/santana_vtr/)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
 
-![Santana GitHub stats](https://github-readme-stats.vercel.app/api?username=Sant0701&show_icons=true&theme=dracula&count_private=true)
+![Santana GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperSantana&show_icons=true&theme=dracula&count_private=true)
 
 
 <div style="display: inline_block">
